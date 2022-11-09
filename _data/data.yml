@@ -66,6 +66,22 @@ experiences:
         company: Freelancer
 
 
+projects:
+    title: Projects
+    assignments:
+      - title: Alpha
+        link: "#"
+        tagline: "A responsive website template for non-profit."
+
+      - title: Delta
+        link: "#"
+        tagline: "A comprehensive website template eshops."
+
+      - title: Epsilon
+        link: "#"
+        tagline: "A responsive Bootstrap one page for everyday usage."
+
+
 skills:
     title: Skills &amp; Proficiency
 
